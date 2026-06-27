@@ -26,6 +26,7 @@ The project also implements a backtesting system to simulate how the model would
 ---
 
 ## how to run
+### BEFORE RUNNING YOU NEED TO HAVE VS Code Jupyter Extension, Python 3.8+
 
 ### 1. clone or create the project folder
 ```bash
