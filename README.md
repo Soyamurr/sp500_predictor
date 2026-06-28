@@ -10,7 +10,6 @@ This project uses historical S&P 500 data going back to 1990 to train a binary c
 
 The project also implements a backtesting system to simulate how the model would have performed over time, and uses rolling average features to improve prediction accuracy.
 
-
 ---
 
 ## Stack
